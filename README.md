@@ -38,7 +38,7 @@ AgriSense is an AI-powered platform aimed at revolutionizing agriculture by prov
 ## Power BI Dashboard:
 - Open the crop_yield.pbix file in Power BI Desktop.
 - Explore and analyze crop yield data using interactive visualizations.
-![Screenshot 2024-10-15 120807](https://github.com/user-attachments/assets/96f14dc7-a407-4015-8389-2636190fb948)
+![Screenshot 2024-10-15 141403](https://github.com/user-attachments/assets/2d9c2657-63c5-4145-b5f6-a13789dfbdd1)
 
 ## Crop Yield Prediction:
 - Open the CropYield-Prediction.ipynb file in Jupyter Notebook.
