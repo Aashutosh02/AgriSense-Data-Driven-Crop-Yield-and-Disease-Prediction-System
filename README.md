@@ -1,5 +1,6 @@
 # AgriSense: Data-Driven Crop Yield and Disease Prediction System
 
+Dashboard link: https://app.powerbi.com/groups/me/reports/fbfd226f-e974-4e80-9996-2645d41eb1b1/8c9a3804b63a5e3a961f?experience=power-bi
 
 ## Description
 
